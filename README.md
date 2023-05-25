@@ -26,7 +26,7 @@ Projeto do anime Pokemon.
 
 ### Demo
 
-[Clique aqui para visualizar o projeto](https://projetopokedex-rh.netlify.app)
+[Clique aqui para visualizar o projeto](https://italo-viana-pokedex.netlify.app/)
 
 ## :newspaper: Process
 
